@@ -4,7 +4,7 @@ Titre : Projet Power BI avancé
 
 Toutes les étapes du présent projet n'ont pas été écrites et détaillées étant données la grande quantité de taches réalisées.
 
-Objectif principal de ce projet : passer des données brutes à un tableau de bord interactif. Nous allons partir d'un ensemble de jeux de données brutes enrichis des ventes d'une entreprise fictive nommée Adventure Works pour créer un rapport Power BI de 5 pages que nous allons ensuite publier dans le service Power BI en ligne.
+Dans ce projet nous partons de données brutes à un rapport Power BI. Nous partons d'un ensemble de jeux de données brutes enrichis des ventes d'une entreprise fictive nommée Adventure Works pour créer un rapport Power BI de 5 pages que nous allons ensuite publier dans le service Power BI en ligne.
 
 Les étapes de ce projet sont :
 
