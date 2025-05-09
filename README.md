@@ -12,7 +12,7 @@ Les étapes de ce projet sont :
 2 - nettoyer et transformer les données avec Power Query Editor
 3 - modéliser les données avec Power BI
 4 - créer des mesures
-5 - créer des tableaux de bord et publier le rapport sur le service Power BI
+5 - créer des visuels et publier le rapport sur le service Power BI
 
 Concernant la source de données, nous avons trois principaux fichiers : un fichier principal "AdventureWorks Sales.xlsx" qui contient 7 tables : celle des commandes, celle des zones ou territoires de ventes, celle des détails commandes, celle des revendeurs, des dates, des produits, et enfin celle des clients. À côté de ce fichier, nous avons également le fichier "Objectifs_Vente.csv" qui contient les objectifs de ventes et le fichier "Stock.csv" qui contient les stocks par article.
 
