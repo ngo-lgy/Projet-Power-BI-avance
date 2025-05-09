@@ -1,6 +1,6 @@
 Titre : Projet Power BI avancé
 
-* Projet très riche avec beaucoup de difficultés surmontées et des problèmes résolus.
+* Projet très riche avec beaucoup de difficultés surmontées et des problèmes résolus.*
 
 Toutes les étapes du présent projet n'ont pas été écrites et détaillées étant données la grande quantité de taches réalisées.
 
@@ -9,7 +9,7 @@ Objectif principal de ce projet : passer des données brutes à un tableau de bo
 Les étapes de ce projet sont :
 
 1 - connecter les données à Power BI
-2 - nettoyer et transformer les données avec Power BI
+2 - nettoyer et transformer les données avec Power Query Editor
 3 - modéliser les données avec Power BI
 4 - créer des mesures
 5 - créer des tableaux de bord et publier le rapport sur le service Power BI
