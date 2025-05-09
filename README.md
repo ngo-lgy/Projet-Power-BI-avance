@@ -1,6 +1,6 @@
 Titre : Projet Power BI avancé
 
-* Projet très riche avec beaucoup de difficultés surmontées et des problèmes résolus.*
+* Projet très riche avec beaucoup de difficultés surmontées et des problèmes résolus.
 
 Toutes les étapes du présent projet n'ont pas été écrites et détaillées étant données la grande quantité de taches réalisées.
 
