@@ -2,7 +2,7 @@ Titre : Projet Power BI avancé
 
 * Projet très riche avec beaucoup de difficultés surmontées et des problèmes résolus.
 
-Toutes les étapes du présent projet n'ont pas été écrites et détaillées étant données la grande quantité de taches effectuées.
+Toutes les étapes du présent projet n'ont pas été écrites et détaillées étant données la grande quantité de taches réalisées.
 
 Objectif principal de ce projet : passer des données brutes à un tableau de bord interactif. Nous allons partir d'un ensemble de jeux de données brutes enrichis des ventes d'une entreprise fictive nommée Adventure Works pour créer un rapport Power BI de 5 pages que nous allons ensuite publier dans le service Power BI en ligne.
 
@@ -108,16 +108,16 @@ Le rapport contient 5 pages au total.
 
 Première page : Accueil
 
-- On insère une zone de texte pour le titre, menu Accueil → Zone de texte.
+- On insère une zone de texte pour le titre, menu Accueil --> Zone de texte.
 - On met le titre en bleu, on le centre, on augmente la police à 20, on met en gras.
-- On grise l’arrière-plan du titre (Effet → Arrière-plan → Couleur).
+- On grise l’arrière-plan du titre (Effet --> Arrière-plan --> Couleur).
 - On insère le logo Adventure Works (menu Insérer).
 - On utilise le visuel Carte pour insérer le chiffre d’affaires (ce visuel prend un seul champ, un indicateur clé).
 - Dans Mise en forme du visuel : on masque l’étiquette, on met la légende en gras, police 42 ; dans Général, on active le titre, on le saisit, on le centre, on le met en gras, on grise l’arrière-plan.
 - On active la bordure visuelle et on met un arrondi de 10.
 - On copie ce visuel quatre fois.
 - Dans chaque copie, on remplace le chiffre d’affaires par les autres KPI de ventes.
-- On ajuste les largeurs des visuels (250 dans Général → Propriété), puis on les aligne (Format → Aligner → Distribuer horizontalement).
+- On ajuste les largeurs des visuels (250 dans Général --> Propriété), puis on les aligne (Format --> Aligner --> Distribuer horizontalement).
 - Ensuite, on ajoute des courbes de croissance sur les cartes :
 - On choisit un graphique en aires, on met la date (par mois) en abscisse et le chiffre d’affaires en ordonnée.
 - On enlève le titre, les valeurs des axes, et le titre général ; on superpose sur la carte ; on met la transparence à 100 % (Effets), on prend une ligne bleu clair.
